@@ -18,4 +18,4 @@ Bootstrap portfolio was created using HTML, CSS / Bootstrap, and Photoshop. This
 - - -
 
 ### Live Link
-https://thomaschsu.github.io/basic-portfolio/
+https://thomaschsu.github.io/bootstrap-portfolio/
